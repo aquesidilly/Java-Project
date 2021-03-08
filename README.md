@@ -10,7 +10,7 @@
 
 # Screenshot
 
-  ![](images/snake%20Game.png) 
+  ![](images/snakeGame.png) 
 
 
 # Table of contents
