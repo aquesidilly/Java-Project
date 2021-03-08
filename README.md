@@ -10,7 +10,7 @@
 
 # Screenshot
 
-  ![](images/screenshot%202.png) 
+  ![](images/screenshot2%20.png) 
 
 
 # Table of contents
