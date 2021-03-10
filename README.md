@@ -1,11 +1,11 @@
 ### The Snake Game
  
-## JS PROJECT
+## JAVA PROJECT
   * This Website was created for the sole purpose of completing the second Milestone Project for the Code Institute's Full Stack Developer course. It was built using the knowledge gained from the HTML, CSS, User Centric Design, JavaScript Fundamentals and Interactive Frontend Development modules. A full list of technologies used can be found in the technologies section of this document.
 
 # Live project
 
-  The live SnakeGame can be found [View here](https://aquesidilly.github.io/JS-PROJECT)
+  The live SnakeGame can be found [View here](https://aquesidilly.github.io/Java-Project)
 
 
 # Screenshot
@@ -60,7 +60,7 @@ Table of contents generated with markdown-toc
 
 #   Frameworks Libraries and Programs
    * Git
-   
+
      - Git was used as a version control in the terminal.
    * Github
 
