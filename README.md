@@ -65,6 +65,9 @@ Table of contents generated with markdown-toc
      - Github was used to create and store the project repository.
    * Gitpod
      - Gitpod was used to create my files and code the project.
+   *jQuery
+
+     - jQuery was imported from bootstrap to make the navbar responsive on smaller screen sizes.
 
 ## Feature
 
