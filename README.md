@@ -60,14 +60,17 @@ Table of contents generated with markdown-toc
 
 #   Frameworks Libraries and Programs
    * Git
+   
      - Git was used as a version control in the terminal.
    * Github
+
      - Github was used to create and store the project repository.
    * Gitpod
+
      - Gitpod was used to create my files and code the project.
    * jQuery
 
-     - jQuery was imported from bootstrap to make the navbar responsive on smaller screen sizes.
+     - jQuery was imported from bootstrap to make the snake game responsive on smaller screen sizes as well.
 
 ## Feature
 
