@@ -112,7 +112,7 @@ Table of contents generated with markdown-toc
 
  # 404 error
 
-  * I used github to add a custom 404 error page if the user enters a wrong url to the page. I created a 404.html page on my repository by clicking the add file button and then added my html,css folder,assets folder and images folder to it. I've added my navbar and footer to this page as well as a link back to the index.html page.
+  * I used github to add a custom 404 error page if the user enters a wrong url to the page. I created a 404.html page on my repository by clicking the add file button and then added my html,css folder,assets folder and images folder to it. I've added jQuery to this page as well as a link back to the index.html page.
 
 ## Deployment
 
