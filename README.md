@@ -117,10 +117,10 @@ Table of contents generated with markdown-toc
   * I used github to add a custom 404 error page if the user enters a wrong url to the page. I created a 404.html page on my repository by clicking the add file button and then added my html,css folder,assets folder and images folder to it. I've added jQuery to this page as well as a link back to the index.html page.
  # Issues and Resolutions to issues found during testing
   
-   - Email mailto link was broken due to a space between the mailto and email. This was found when running code through jshint.com and was fixed by removing the space.
-   - Clicking the 'Start Game' button after the first game had been played was stopping the board from resetting due to the reset functions being called from the event listener on the 'Play Again' button. This was fixed by hiding the start button (jQuery to set display = 'none') after the first game has been played so it could not be pressed.
-   - Reference error (type error) was being displayed on the console if a user tried to input a guess into the text box when a game was not active. This was resolved by setting the gameFinish variable to true when declaring it as the game only validates input while the game is active.
-   - Replaced code in validateForm() form method that gets the input (guess) value to use dotnet notation to fix error shown in jshint validator.
+   - The snakeGame had broken lines. This was found when running code through jshint.com and was fixed by removing the space.
+   - Clicking the 'Start Game' button to play your first game and when you lose the game will restart automatically, reset functions being used to start the game all over again. This was fixed by hiding the start button after the first game has been played so it could not be pressed.
+   - Reference error (404 error) was being displayed on the console if a user tried to input a guess into the text box when a game was not active. This was resolved by setting the gameFinish variable to true when declaring it as the game only validates input while the game is active.
+   - Replaced code in  form method that gets the input (guess) value to use dotnet notation to fix error shown in jshint validator.
 ## Deployment
 
 # Github, Gitpod, Git and Gitub pages
