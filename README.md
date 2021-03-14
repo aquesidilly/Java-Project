@@ -119,7 +119,7 @@ Table of contents generated with markdown-toc
   
    - The snakeGame had broken lines. This was found when running code through jshint.com and was fixed by removing the space.
    - Clicking the 'Start Game' button to play your first game and when you lose the game will restart automatically, reset functions being used to start the game all over again. This was fixed by hiding the start button after the first game has been played so it could not be pressed.
-   - Reference error (404 error) was being displayed on the console if a user tried to input a guess into the text box when a game was not active. This was resolved by setting the gameFinish variable to true when declaring it as the game only validates input while the game is active.
+   - Reference error (404 error) was being displayed on the console if a user tried to input a guess into the text box when a game was not active. This was resolved by setting the You Lose variable to true when declaring it as the game only validates input while the game is active.
    - Replaced code in  form method that gets the input (guess) value to use dotnet notation to fix error shown in jshint validator.
 ## Deployment
 
