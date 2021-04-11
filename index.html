@@ -11,7 +11,14 @@
 </head>
 <body>
 <div id="game-board"></div>
-<div>
+<div id="hint">
+ </div>
+      <!-- Calls validateForm() method to send user input to variable -->
+      <form name="userInput" id="userInput" onsubmit="return false">
+      <input type="text" maxlength="1" name="guess" id="guess" placeholder="Enter guess here" />
+      <button onclick="validateForm()" id="submit-btn">Submit</button>
+      </form>
+ <div>
     <script defer src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
     <script  defer src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
     <script defer src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"></script>

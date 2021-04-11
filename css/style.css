@@ -7,6 +7,12 @@ body {
     margin: 0;
     background-color: black;
 }
+h3 {
+    font-family:  sans-serif;
+    font-weight: 800;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
 #game-board {
     background-color:white;
     width: 100vmin;
@@ -22,4 +28,22 @@ body {
 .food {
     background-color: hsl(50, 100%, 50%);
     border: .25vmin solid black;
+}
+#letter-error {
+    display: none;
+    color: #d80404;
+    font-weight: bolder;
+    padding: 5px;
+}
+#userInput {
+    display: none;
+}
+
+#guess {
+    font-size: 1.8rem;
+}
+
+#submit-btn {
+    font-size: 1.9rem;
+    border-radius: 5px;
 }
